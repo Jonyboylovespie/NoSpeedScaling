@@ -1,0 +1,10 @@
+C:\repos\NoScaling\bin\Debug\net6.0\NoScaling.deps.json
+C:\repos\NoScaling\bin\Debug\net6.0\NoScaling.dll
+C:\repos\NoScaling\obj\Debug\net6.0\NoScaling.csproj.AssemblyReference.cache
+C:\repos\NoScaling\obj\Debug\net6.0\NoScaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\NoScaling\obj\Debug\net6.0\NoScaling.AssemblyInfoInputs.cache
+C:\repos\NoScaling\obj\Debug\net6.0\NoScaling.AssemblyInfo.cs
+C:\repos\NoScaling\obj\Debug\net6.0\NoScaling.csproj.CoreCompileInputs.cache
+C:\repos\NoScaling\obj\Debug\net6.0\NoScaling.dll
+C:\repos\NoScaling\obj\Debug\net6.0\refint\NoScaling.dll
+C:\repos\NoScaling\obj\Debug\net6.0\ref\NoScaling.dll

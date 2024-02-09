@@ -1,0 +1,10 @@
+C:\repos\NoScaling\bin\Debug\net6.0\NoSpeedScaling.deps.json
+C:\repos\NoScaling\bin\Debug\net6.0\NoSpeedScaling.dll
+C:\repos\NoScaling\obj\Debug\net6.0\NoSpeedScaling.csproj.AssemblyReference.cache
+C:\repos\NoScaling\obj\Debug\net6.0\NoSpeedScaling.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\NoScaling\obj\Debug\net6.0\NoSpeedScaling.AssemblyInfoInputs.cache
+C:\repos\NoScaling\obj\Debug\net6.0\NoSpeedScaling.AssemblyInfo.cs
+C:\repos\NoScaling\obj\Debug\net6.0\NoSpeedScaling.csproj.CoreCompileInputs.cache
+C:\repos\NoScaling\obj\Debug\net6.0\NoSpeedScaling.dll
+C:\repos\NoScaling\obj\Debug\net6.0\refint\NoSpeedScaling.dll
+C:\repos\NoScaling\obj\Debug\net6.0\ref\NoSpeedScaling.dll

@@ -1,0 +1,10 @@
+C:\repos\RandomPathBlocker\bin\Debug\net6.0\RandomPathBlocker.deps.json
+C:\repos\RandomPathBlocker\bin\Debug\net6.0\RandomPathBlocker.dll
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\RandomPathBlocker.csproj.AssemblyReference.cache
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\RandomPathBlocker.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\RandomPathBlocker.AssemblyInfoInputs.cache
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\RandomPathBlocker.AssemblyInfo.cs
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\RandomPathBlocker.csproj.CoreCompileInputs.cache
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\RandomPathBlocker.dll
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\refint\RandomPathBlocker.dll
+C:\repos\RandomPathBlocker\obj\Debug\net6.0\ref\RandomPathBlocker.dll
