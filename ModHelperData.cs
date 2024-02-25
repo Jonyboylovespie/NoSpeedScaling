@@ -10,6 +10,5 @@
 
         public const string RepoOwner = "Jonyboylovespie";
         public const string RepoName = "";
-        public const string Icon = "";
     }
 }
